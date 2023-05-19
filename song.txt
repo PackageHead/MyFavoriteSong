@@ -14,3 +14,5 @@ May your love never end and if you need a friend,
 There's a seat here alongside me
 Whoa, whoa, whoa, whoa
 Whoa, whoa
+
+feature 2!
